@@ -1,0 +1,25 @@
+{
+	"storyName": "FATAL",
+ "difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "But",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Fatality",
+			"fatal-error",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "ERROR"
+}
