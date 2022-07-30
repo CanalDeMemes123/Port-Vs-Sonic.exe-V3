@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				-39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"name": "omnomnom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				400,
+				-145
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"name": "spookman",
+			"indices": []
+		},
+		{
+			"offsets": [
+				400,
+				-145
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"name": "spookman",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starved_die",
+	"position": [
+		-450,
+		-450
+	],
+	"healthicon": "starved",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-180,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

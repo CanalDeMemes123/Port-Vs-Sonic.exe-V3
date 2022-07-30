@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				756,
+				1352
+			],
+			"indices": [],
+			"fps": 15,
+			"anim": "idle",
+			"loop": true,
+			"name": "sunker"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sunker",
+	"position": [
+		1200,
+		1500
+	],
+	"healthicon": "sunky",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		72,
+		251
+	],
+	"camera_position": [
+		-770,
+		-520
+	],
+	"sing_duration": 4,
+	"scale": 4
+}
